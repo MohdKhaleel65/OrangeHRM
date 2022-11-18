@@ -1,0 +1,5 @@
+2022-11-15 19:12:36,757 - com.OHRMTestCases.LogInTest -INFO - Entered UserName
+2022-11-15 19:12:36,878 - com.OHRMTestCases.LogInTest -INFO - entered Password
+2022-11-15 19:12:38,545 - com.OHRMTestCases.LogInTest -INFO - Clicked Login Button
+2022-11-15 19:12:38,649 - com.OHRMTestCases.LogInTest -INFO - clicked on WelcomeAdmin Button
+2022-11-15 19:12:39,592 - com.OHRMTestCases.LogInTest -INFO - Logout successfully

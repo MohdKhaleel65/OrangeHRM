@@ -1,0 +1,5 @@
+[main] INFO com.OHRMTestCases.LogInTest - Entered UserName
+[main] INFO com.OHRMTestCases.LogInTest - entered Password
+[main] INFO com.OHRMTestCases.LogInTest - Clicked Login Button
+[main] INFO com.OHRMTestCases.LogInTest - clicked on WelcomeAdmin Button
+[main] INFO com.OHRMTestCases.LogInTest - Logout successfully

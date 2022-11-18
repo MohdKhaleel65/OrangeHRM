@@ -1,0 +1,17 @@
+package com.MyNewProject;
+
+public class Stringcompare1 {
+public static void main(String[] args) {
+	String p="khalE#l";
+	int k=p.charAt(5);
+	System.out.println("asic value "+k);
+	int o=p.length();
+	System.out.println(o);
+	String l=p.toUpperCase();
+	System.out.println(l);
+	String y=p.toLowerCase();
+	System.out.println(y);
+	
+	
+}
+}

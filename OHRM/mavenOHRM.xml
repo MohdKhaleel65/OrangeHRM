@@ -1,0 +1,7 @@
+<suite name="ohrmApplication Maven Project">
+	<test name =" loginTest">
+	  <classes>
+		<class name="com.OHRMTestCases.LogInTest"/>
+	</classes>
+	</test>
+	</suite>

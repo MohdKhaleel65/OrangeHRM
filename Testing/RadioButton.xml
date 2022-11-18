@@ -1,0 +1,7 @@
+<suite name="RadioButton">
+<test name="Button Test">
+<classes>
+<class name="com.RadioButtons.RadioButtonTest"/>
+</classes>
+</test>
+</suite>

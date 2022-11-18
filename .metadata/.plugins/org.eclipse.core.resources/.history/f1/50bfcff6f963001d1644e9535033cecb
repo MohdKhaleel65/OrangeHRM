@@ -1,0 +1,7 @@
+<suite name="ohrmApplication">
+<test name=" loginTest">
+<classes>
+<class name="com.RadioButtons.RadioButtonTest"/>
+</classes>
+</test>
+</suite>

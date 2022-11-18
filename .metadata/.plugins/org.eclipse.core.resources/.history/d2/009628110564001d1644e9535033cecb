@@ -1,0 +1,13 @@
+<suite name =" ohrm Application" parallel= "tests">
+
+<test name ="login test">
+	<classes>
+		<class name ="com.TestNG.OHRM_TestNG_Login"/>
+		</classes>
+	</test>
+<test name ="EmployeeList">
+<classes>
+	<class name ="com.TestNG.OHRM_EmployeeList_Excel_TestNG"/>
+</classes>
+	</test>
+</suite>

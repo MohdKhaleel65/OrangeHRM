@@ -1,0 +1,12 @@
+package com.MyNewProject;
+
+public class ForinForexample {
+	public static void main(String[] args) {
+		int x;
+		for(x=9;x>0;x--)
+		{
+			System.out.println(x);
+		}
+	}
+
+}

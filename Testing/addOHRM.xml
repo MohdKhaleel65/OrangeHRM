@@ -1,0 +1,7 @@
+<suite name="ohrmApplication">
+	<test name =" loginTest">
+	  <classes>
+		<class name="com.TestNG.OHRM_EmployeeList_Excel_TestNG"/>
+	</classes>
+	</test>
+	</suite>

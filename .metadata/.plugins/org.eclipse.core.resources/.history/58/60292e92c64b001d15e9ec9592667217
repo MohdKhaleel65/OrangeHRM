@@ -1,0 +1,9 @@
+package com.MyNewProject;
+
+public class Stringcompare1 {
+public static void main(String[] args) {
+	String p="hellO";
+	int k=p.charAt(5);
+	System.out.println("asic value "+k);
+}
+}
